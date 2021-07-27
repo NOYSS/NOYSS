@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thanakorn
 - 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 Email: thanakorn.noy@gmail.com
 
 **Languages and Tools:**  
